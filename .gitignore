@@ -1,4 +1,5 @@
 *.[oab]
+*.txt
 *~
 # a comment this is ignored
 *.a # no .a files
