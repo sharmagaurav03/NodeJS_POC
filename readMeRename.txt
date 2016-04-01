@@ -1,3 +1,2 @@
-Hello, This is the first file in git learning...
-1)First Update, I am trying to add my first node+mangoose+passport(Facebook, google and local strategy in to git hub).
-2)Once more Just for fun, this line is added..
+Hello
+1) am trying to add Node JS + Mangoose+ Passport(Facebook, google and local strategy in to git hub).
